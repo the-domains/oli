@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[oli]]></title>
+        <description><![CDATA[oli]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 30 Oct 2015 22:27:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://chelseawinter.co.nz/wp-content/uploads/2014/01/IMG_0089-2-1024x783.jpg">]]></description>
+            <link>undefined1e89a484-3a76-4018-a6a0-f594e5e6eefb/index.html</link>
+            <guid isPermaLink="false">1e89a484-3a76-4018-a6a0-f594e5e6eefb</guid>
+            <pubDate>Fri, 30 Oct 2015 22:27:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
